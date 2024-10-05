@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Evolution of Code with Java Inheritance.
+url: https://medium.com/@rileyxq/java-singular-inheritance-57aa5703cb18
+---
 # The Evolution of Code: Exploring Java Inheritance for Better Design.
 
 [Read on Medium](https://medium.com/@rileyxq/java-singular-inheritance-57aa5703cb18) | [Read on LinkedIn](https://www.linkedin.com/pulse/evolution-code-exploring-java-inheritance-better-design-shenefelt-lwuac/?trackingId=rzXW1vqOSSyaebJeyf%2BNTg%3D%3D)

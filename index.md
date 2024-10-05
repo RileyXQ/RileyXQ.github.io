@@ -1,6 +1,11 @@
+---
+layout: default
+title: Welcome to My Blog
+---
+
 # Welcome to My Blog
 
-Hi, I'm **Your Name**, and this is a collection of my blog posts. You can browse through my articles below, where I dive deep into topics related to **Java development** and more. 🎉
+Hi, I'm **Riley X. Quinn**, and this is a collection of my blog posts. You can browse through my articles below, where I dive deep into topics related to **Java development** and more. 🎉
 
 ---
 
@@ -8,9 +13,13 @@ Hi, I'm **Your Name**, and this is a collection of my blog posts. You can browse
 
 Here are my latest posts:
 
-- [Understanding Java Inheritance](./blogs/java-inheritance.md)
-- [Mastering Java Streams](./blogs/java-streams.md)
-- [Another Blog Post](./blogs/another-blog-post.md) <!-- Example placeholder -->
+<ul>
+  {% for post in site.pages %}
+    {% if post.path contains "blogs" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 ---
 
