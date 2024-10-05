@@ -13,13 +13,7 @@ Hi, I'm **Riley X. Quinn**, and this is a collection of my blog posts. You can b
 
 Here are my latest posts:
 
-<ul>
-  {% for post in site.pages %}
-    {% if post.path contains "blogs" %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+[Evolution of Code: Java Inheritance](./_posts/java-inheritance.md)
 
 ---
 
