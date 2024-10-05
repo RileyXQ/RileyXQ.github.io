@@ -33,8 +33,8 @@ I'm a passionate **freelance Java developer** with a love for sharing knowledge.
 
 Feel free to reach out:
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Email Me](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/greg-shenefelt)
+- [Email Me](mailto:rileyxq@rxquinn.net)
 
 ---
 
